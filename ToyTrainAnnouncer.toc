@@ -1,0 +1,6 @@
+## Interface: 40400
+## Title: Toy Train Announcer
+## Notes: Announces who used the Toy Train Set
+## Author: Commonhoof
+## Version: 1.0
+ToyTrainAnnouncer.lua
