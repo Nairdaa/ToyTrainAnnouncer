@@ -2,5 +2,5 @@
 ## Title: Toy Train Announcer
 ## Notes: Announces who used the Toy Train Set
 ## Author: Commonhoof
-## Version: 1.0
+## Version: 1.0.1
 ToyTrainAnnouncer.lua
