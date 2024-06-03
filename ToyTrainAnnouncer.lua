@@ -9,11 +9,11 @@ ToyTrainDetector:RegisterEvent("UNIT_SPELLCAST_SUCCEEDED")
 
 -- Event handler function
 ToyTrainDetector:SetScript("OnEvent", function(self, event, unitID, _, spellID)
-    if spellID == TOY_TRAIN_SPELL_ID then
-        local playerName = UnitName(unitID)
-        if playerName then
-            -- Send a chat message to the party channel
-            SendChatMessage("Toy Train Set placed by: " .. playerName, "PARTY")
-        end
-    end
+	if spellID == TOY_TRAIN_SPELL_ID then
+		local playerName = UnitName(unitID)
+		if playerName then
+			-- Send a chat message to the party channel
+			SendChatMessage("Toy Train Set placed by: " .. playerName, "PARTY")
+		end
+	end
 end)
