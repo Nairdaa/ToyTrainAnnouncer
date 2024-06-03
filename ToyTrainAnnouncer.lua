@@ -2,7 +2,7 @@
 Wondering if there is a way to auto-find the offsets for spell/item IDs and update them "on-the-go" when the plugin is loading. 
 It's possible with the Source Engine, but Blizz' API sucks even more imo. Soon™.
 
-Note to self: It should be able to, I think. Depends what Blizzard lets you do with the files inside of the /plugin folder.
+Note to self: It should be able to, I think. Depends what Blizzard lets you do with the files inside of the /addons folder.
 Possible breach detected xd
 ]]
 
