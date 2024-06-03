@@ -4,7 +4,7 @@ It's possible with the Source Engine, but Blizz' API sucks even more imo. Soonâ„
 
 Note to self: It should be able to, I think. Depends what Blizzard lets you do with the files inside of the /plugin folder.
 Possible breach detected xd
---]]
+]]
 
 -- Create a frame for the addon
 local ToyTrainDetector = CreateFrame("Frame")
